@@ -1,16 +1,4 @@
-// ==UserScript==
-// @name         东方时尚课程自动播放
-// @namespace    http://your.homepage/
-// @version      0.1
-// @description  enter something useful
-// @author       You
-// @match        *://dfss.anjia365.com/jpv2/web/personPlan!player.do*
-// @grant        none
-// @require        jquery.min.js
-// ==/UserScript==
-
 // 作用: 自动学习完东方时尚科目一的课程, 不用再等待视频播放, 不用点下一步, 不用做题!
-// 使用方法: 下载此文件保存成dfss_autoplay.user.js, 拖进chrome浏览器即可
 
 alert('自动播放插件加载成功');
 setInterval(function() {

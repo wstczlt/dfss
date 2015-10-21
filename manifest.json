@@ -1,7 +1,9 @@
 {  
-        "name": "东方时尚课程自动播放",  
+        "name": "东方时尚科目一自动播放工具",  
         "version": "0.1",  
         "manifest_version": 2,
+        "author": "wstczlt",
+        "homepage_url": "https://github.com/wstczlt/dfss",
         "content_scripts": [  
             {  
                 "matches": ["http://dfss.anjia365.com/jpv2/web/*"],  
